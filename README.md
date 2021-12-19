@@ -1,6 +1,6 @@
 # Stock_price-Prediction
 It is a ML project based on time-series forecasting.
-Stacked LSTM is used.
+LSTM model is used.
 In this project pervious 100 data values is taken to predict future 30 days values.
 STEPS:
 1)Reading data in the form of csv file.
