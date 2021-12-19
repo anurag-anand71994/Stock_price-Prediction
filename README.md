@@ -7,5 +7,5 @@ STEPS:
 2)Preprocessing the data.
 3)Splitting data into train and test split.
 4)Creating a stacked LSTM model.
-5)Predicting test data and plotting the output.
-6)Predicting the future 30 days and plotting the output.
+5)Predicting the test data and plotting the output.
+6)Predicting the future 30 days values and plotting the output.
